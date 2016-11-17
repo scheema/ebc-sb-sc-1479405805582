@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: ebc-sb-sc
+  host: ebc-sb-sc
+  disk_quota: 1024M
